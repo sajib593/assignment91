@@ -47,3 +47,21 @@ header{
     text-align: center;
 }
 
+
+
+/* -------------section welocme---------
+ */
+
+ .welcome{
+    background-image: url("./resources/Vectorrr.png");
+    color: white;
+    height: 600px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    padding-left: 50px;
+ }
+
