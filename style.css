@@ -167,3 +167,41 @@ header{
     border-radius: 0px 50px 50px 0px;
     background-color: red;
 }
+
+
+
+/* footer----------- */
+
+footer{
+    background-color: black;
+}
+
+
+.footer-call{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.line{
+    background-color: white;
+    width: 800px;
+}
+.line:hover {
+    
+    border-color: blue;
+  }
+
+  .call{
+    width: 35px;
+    height: 35px;
+  }
+
+.fb{
+    margin-right: 10px;
+}
+.fb-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
