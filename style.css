@@ -21,3 +21,29 @@ header{
     
 }
 
+
+/* --------------section off----------- */
+.off{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+.off65{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.holiday{
+    font-size: 14px;
+    text-align: center;
+}
+.category{
+    font-size: 18;
+    text-align: center;
+}
+
